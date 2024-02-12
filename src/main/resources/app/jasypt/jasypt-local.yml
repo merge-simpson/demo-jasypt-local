@@ -1,0 +1,6 @@
+app:
+  jasypt:
+    encryptor:
+      password: ${JASYPT_KEY:Vun13IxC773nhmkLWNIjtSowOcPHJSKSRrLw712LRM6ksMP7F_kR9w} # never share the content on your project
+      algorithm: PBEWithMD5AndDES
+      poolSize: 1
