@@ -1,0 +1,4 @@
+app:
+  example:
+    # api-key: ${EXAMPLE_API_KEY:IF_YOU_READ_THIS_THEN_JASYPT_WORKS}
+    api-key: ENC(dtAwUVyOmsWLS10pHIzGbf39nPf728+KyZ3x/pdVH6Oq3ICzosFLNBAQyDYbyb18)

@@ -1,5 +1,6 @@
 spring:
   config:
     import:
+      - app/example/example.yml
       # ▼ 예시에서는 로컬에만 사용하기 때문에 로컬에만 추가해도 됨. (초보자가 헷갈릴까 봐 여기 둔 것.)
       - app/jasypt/jasypt.yml
